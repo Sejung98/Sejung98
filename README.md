@@ -24,17 +24,16 @@
 </p>
 
 ### 📌 Projects
-<p>
-  <a href="https://github.com/Sejung98/WGS-Germline-pipeline-nf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sejung98&repo=WGS-Germline-pipeline-nf&theme=transparent" /></a>
-  <a href="https://github.com/Sejung98/WGS_HMF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sejung98&repo=WGS_HMF&theme=transparent" /></a>
-  <a href="https://github.com/Sejung98/follow_wollof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sejung98&repo=follow_wollof&theme=transparent" /></a>
-  <a href="https://github.com/Sejung98/paper-surfer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sejung98&repo=paper-surfer&theme=transparent" /></a>
-</p>
+| Project | Description |
+|---|---|
+| 🧬 [WGS-Germline-pipeline-nf](https://github.com/Sejung98/WGS-Germline-pipeline-nf) | WGS germline analysis pipeline on Nextflow, built on the Hartwig pipeline |
+| 🧪 [WGS_HMF](https://github.com/Sejung98/WGS_HMF) | WGS analysis pipeline based on the Hartwig Medical Foundation tools |
+| 🗺️ [follow_wollof](https://github.com/Sejung98/follow_wollof) | Tracking research sessions with Claude as a progress graph |
+| 📚 [paper-surfer](https://github.com/Sejung98/paper-surfer) | Finding research papers from PubMed |
 
 ### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sejung98&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejung98&layout=compact&theme=transparent&hide_border=true" height="165" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sejung98&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
