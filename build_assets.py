@@ -38,6 +38,9 @@ PROJECTS = [
     ("paper-surfer",
      ["Finds and ranks research papers", "from PubMed"],
      "Python", "#3572A5"),
+    ("Personal_dataops_agent",
+     ["Finds public genomics datasets, downloads", "them on HPC, prepares nf-core pipelines"],
+     "Python", "#3572A5"),
 ]
 
 

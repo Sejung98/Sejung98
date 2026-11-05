@@ -15,10 +15,28 @@ On the side, I build small tools that automate the research workflow with LLM ag
   <img src="assets/stack-light.svg" width="100%" alt="Claude, Python, R, Nextflow, Linux, Bash, Docker" />
 </picture>
 
-### Projects
+### Cancer Genomics
+
+Whole-genome pipelines for somatic and germline variation.
 
 <a href="https://github.com/Sejung98/WGS-Germline-pipeline-nf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-WGS-Germline-pipeline-nf-dark.svg" /><img src="assets/card-WGS-Germline-pipeline-nf-light.svg" width="50%" alt="WGS-Germline-pipeline-nf" /></picture></a><a href="https://github.com/Sejung98/WGS_HMF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-WGS_HMF-dark.svg" /><img src="assets/card-WGS_HMF-light.svg" width="50%" alt="WGS_HMF" /></picture></a>
+
+Tools I fork and use for tumor evolution and long-read work: [PhylogicNDT](https://github.com/Sejung98/PhylogicNDT) · [MutationTimeR](https://github.com/Sejung98/MutationTimeR) · [gritic](https://github.com/Sejung98/gritic) · [Evolution](https://github.com/Sejung98/Evolution) (PCAWG) · [pacsomatic](https://github.com/Sejung98/pacsomatic) (PacBio HiFi, Nextflow)
+
+<sub><a href="https://github.com/search?q=user%3ASejung98+topic%3Acancer-genomics&type=repositories">All cancer genomics repositories</a></sub>
+
+### Research Agents
+
+LLM agents that automate parts of the research workflow.
+
 <a href="https://github.com/Sejung98/follow_wollof"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-follow_wollof-dark.svg" /><img src="assets/card-follow_wollof-light.svg" width="50%" alt="follow_wollof" /></picture></a><a href="https://github.com/Sejung98/paper-surfer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-paper-surfer-dark.svg" /><img src="assets/card-paper-surfer-light.svg" width="50%" alt="paper-surfer" /></picture></a>
+<a href="https://github.com/Sejung98/Personal_dataops_agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Personal_dataops_agent-dark.svg" /><img src="assets/card-Personal_dataops_agent-light.svg" width="50%" alt="Personal_dataops_agent" /></picture></a>
+
+<sub><a href="https://github.com/search?q=user%3ASejung98+topic%3Aresearch-agents&type=repositories">All research agent repositories</a></sub>
+
+### Currently Learning
+
+Single-cell and spatial omics, multimodal integration with WGS, and deep learning with PyTorch.
 
 ### Activity
 
