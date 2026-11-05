@@ -30,7 +30,7 @@ Tools I fork and use for tumor evolution and long-read work: [PhylogicNDT](https
 LLM agents that automate parts of the research workflow.
 
 <a href="https://github.com/Sejung98/follow_wollof"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-follow_wollof-dark.svg" /><img src="assets/card-follow_wollof-light.svg" width="50%" alt="follow_wollof" /></picture></a><a href="https://github.com/Sejung98/paper-surfer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-paper-surfer-dark.svg" /><img src="assets/card-paper-surfer-light.svg" width="50%" alt="paper-surfer" /></picture></a>
-<a href="https://github.com/Sejung98/Personal_dataops_agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Personal_dataops_agent-dark.svg" /><img src="assets/card-Personal_dataops_agent-light.svg" width="50%" alt="Personal_dataops_agent" /></picture></a>
+<a href="https://github.com/Sejung98/Jige"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Jige-dark.svg" /><img src="assets/card-Jige-light.svg" width="50%" alt="Jige" /></picture></a>
 
 <sub><a href="https://github.com/search?q=user%3ASejung98+topic%3Aresearch-agents&type=repositories">All research agent repositories</a></sub>
 
