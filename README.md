@@ -5,9 +5,9 @@
 ### About
 
 Integrated M.S./Ph.D. student at **Yonsei University College of Medicine**, Seoul.
-I am fascinated by **cancer evolution**: how tumors acquire their mutations, diversify, and change over time.
-I study it with **whole-genome sequencing** and many other kinds of sequencing data, and I have a lot of fun doing it.
-I am also keen on **leveraging AI agents** to do research, and I build the agents I use along the way.
+Fascinated by **cancer evolution**, and by how tumors gather mutations, branch out, and change over time.
+Most of my work draws on **whole-genome sequencing** alongside many other kinds of sequencing data, and it has been a lot of fun.
+More and more of that research now runs through **AI agents**, which I build and put to work myself.
 
 ### Tech Stack
 
@@ -37,7 +37,7 @@ LLM agents that automate parts of the research workflow.
 
 ### Study
 
-Notes and hands-on notebooks from what I am learning: single-cell and spatial omics, multimodal integration with WGS, and deep learning with PyTorch.
+Notes and hands-on notebooks on single-cell and spatial omics, multimodal integration with WGS, and deep learning with PyTorch.
 
 <a href="https://github.com/Sejung98/Seodanggae"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Seodanggae-dark.svg" /><img src="assets/card-Seodanggae-light.svg" width="50%" alt="Seodanggae" /></picture></a>
 
