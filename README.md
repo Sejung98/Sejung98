@@ -5,8 +5,9 @@
 ### About
 
 Integrated M.S./Ph.D. student at **Yonsei University College of Medicine**, Seoul.
-I study cancer through whole-genome sequencing: somatic and germline variation, tumor evolution, and mutation timing.
-On the side, I build small tools that automate the research workflow with LLM agents.
+I am fascinated by **cancer evolution**: how tumors acquire their mutations, diversify, and change over time.
+I study it with **whole-genome sequencing** and many other kinds of sequencing data, and I have a lot of fun doing it.
+I am also keen on **leveraging AI agents** to do research, and I build the agents I use along the way.
 
 ### Tech Stack
 
@@ -30,13 +31,17 @@ Tools I fork and use for tumor evolution and long-read work: [PhylogicNDT](https
 LLM agents that automate parts of the research workflow.
 
 <a href="https://github.com/Sejung98/Ijeongpyo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Ijeongpyo-dark.svg" /><img src="assets/card-Ijeongpyo-light.svg" width="50%" alt="Ijeongpyo" /></picture></a><a href="https://github.com/Sejung98/paper-surfer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-paper-surfer-dark.svg" /><img src="assets/card-paper-surfer-light.svg" width="50%" alt="paper-surfer" /></picture></a>
-<a href="https://github.com/Sejung98/Jige"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Jige-dark.svg" /><img src="assets/card-Jige-light.svg" width="50%" alt="Jige" /></picture></a>
+<a href="https://github.com/Sejung98/Jige"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Jige-dark.svg" /><img src="assets/card-Jige-light.svg" width="50%" alt="Jige" /></picture></a><a href="https://github.com/Sejung98/Saseo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Saseo-dark.svg" /><img src="assets/card-Saseo-light.svg" width="50%" alt="Saseo" /></picture></a>
 
 <sub><a href="https://github.com/search?q=user%3ASejung98+topic%3Aresearch-agents&type=repositories">All research agent repositories</a></sub>
 
-### Currently Learning
+### Study
 
-Single-cell and spatial omics, multimodal integration with WGS, and deep learning with PyTorch.
+Notes and hands-on notebooks from what I am learning: single-cell and spatial omics, multimodal integration with WGS, and deep learning with PyTorch.
+
+<a href="https://github.com/Sejung98/Seodanggae"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Seodanggae-dark.svg" /><img src="assets/card-Seodanggae-light.svg" width="50%" alt="Seodanggae" /></picture></a>
+
+<sub><a href="https://github.com/search?q=user%3ASejung98+topic%3Astudy-notes&type=repositories">All study repositories</a></sub>
 
 ### Activity
 

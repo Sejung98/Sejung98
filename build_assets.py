@@ -41,6 +41,12 @@ PROJECTS = [
     ("Jige",
      ["Hauls public genomics datasets onto HPC", "and prepares nf-core pipelines"],
      "Python", "#3572A5"),
+    ("Saseo",
+     ["Searches literature databases, fetches", "full text, and logs what it could not get"],
+     "Python", "#3572A5"),
+    ("Seodanggae",
+     ["Study notes and hands-on notebooks on", "genomics, statistics, programming and AI"],
+     "Jupyter Notebook", "#DA5B0B"),
 ]
 
 
